@@ -42,15 +42,14 @@ Actuellement diplômée d'un Bac +2 en développement web, voici mon histoire...
 >
 > Aujourd'hui, diplômée, Maëlle poursuit son périple avec **détermination** et **dynamisme**, continuant à coder avec la même fougue que celle des héros de la Rébellion, tout en **cherchant son prochain défi professionnel** dans cette vaste étendue de bits et d'octets.
 
-<img src="./jedi-maelle.jpeg" width="100%" alt="jedi de l'informatique" />
+<img src="./jedi-maelle.jpeg"  width="100%" alt="jedi de l'informatique" />
 
 ## Quelques stats
 
 <div>  
-<img width="51.6%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaelleN95&layout=compact&theme=tokyonight" alt=MaelleN95 />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaelleN95&theme=tokyonight" width="47.9%" height=""/>
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MaelleN95&theme=tokyonight" alt="MaelleN95" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaelleN95&theme=tokyonight" width="100%" />
+<img width="25.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaelleN95&layout=compact&theme=tokyonight" alt=MaelleN95 />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaelleN95&theme=tokyonight" width="23.5%" height=""/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaelleN95&theme=tokyonight" width="48.5%" />
 </div>
 
 ## Me contacter
