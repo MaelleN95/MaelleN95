@@ -34,7 +34,8 @@ Actuellement diplômée d'un **Bac +2 en développement web** et en **recherche 
 >
 > Son périple commença sur les terres fertiles de la **licence MIASHS**, où les mystères des **mathématiques**, de **l'informatique** et de la **psychologie** se mêlaient tels les voiles ondulantes de l'hyperespace.
 >
-> Mais tandis que les étoiles se déplaçaient dans leur course céleste, elle se sentit appelée par la **Force de l'informatique**. À mi-chemin de son voyage, malgré quelques turbulences cosmiques, une opportunité en or se présenta : une **formation en développement web** avec OpenClassrooms. 🪐
+> Mais tandis que les étoiles se déplaçaient dans leur course céleste, elle se sentit appelée par la **Force de l'informatique**.
+> À mi-chemin de son voyage, malgré quelques turbulences cosmiques, une opportunité en or se présenta : une **formation en développement web** avec OpenClassrooms. 🪐
 >
 > ✨ Et là, tel un éclair dans la Force, une révélation ! Son amour pour l'informatique fut confirmé, brillant tel un sabre laser dans la nuit étoilée. ✨
 >
