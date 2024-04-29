@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" alt="Header"/>
-
 # Hello, moi c'est Maëlle Nioche 👋
 
 ## Mes technos
@@ -44,6 +42,8 @@ Actuellement diplômée d'un Bac +2 en développement web, voici mon histoire...
 >
 > Aujourd'hui, diplômée, Maëlle poursuit son périple avec **détermination** et **dynamisme**, continuant à coder avec la même fougue que celle des héros de la Rébellion, tout en **cherchant son prochain défi professionnel** dans cette vaste étendue de bits et d'octets.
 
+<img src="./jedi-maelle.jpeg" width="100%" alt="jedi de l'informatique" />
+
 ## Quelques stats
 
 <div>  
@@ -57,5 +57,3 @@ Actuellement diplômée d'un Bac +2 en développement web, voici mon histoire...
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maelle-nioche)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaelleN95)
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" alt="Footer"/>
