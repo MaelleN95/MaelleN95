@@ -1,6 +1,6 @@
 # Hello, moi c'est Maëlle Nioche 👋
 
-<img src="./jedi-maelle.jpeg"  width="100%" alt="jedi de l'informatique" />
+<img src="./jedi-maelle.jpg"  width="100%" alt="jedi de l'informatique" />
 
 ## Mes technos
 
@@ -41,8 +41,7 @@ Actuellement diplômée d'un **Bac +2 en développement web** et en **recherche 
 
 ## Quelques stats
 
-<div>  
-<img width="25.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaelleN95&layout=compact&theme=tokyonight" alt=MaelleN95 />
+<div>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaelleN95&theme=tokyonight" width="23.5%" height=""/>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaelleN95&theme=tokyonight" width="48.5%" />
 </div>
@@ -50,3 +49,4 @@ Actuellement diplômée d'un **Bac +2 en développement web** et en **recherche 
 ## Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maelle-nioche)
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge)](https://maelle-nioche.vercel.app/#contact)
