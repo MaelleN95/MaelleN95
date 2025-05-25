@@ -43,30 +43,15 @@ React.js • JavaScript • SCSS / Sass • HTML5 • CSS3 • Vite
 
 <img src="https://skillicons.dev/icons?i=react,js,sass,html,css,vite" />
 
-### Back-end
-Node.js • Express • PHP • Symfony
+### Back-end & bases de données
+Node.js • Express • PHP • Symfony • MongoDB • MySQL
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,symfony" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,symfony,mongodb,mysql" />
 
-### Bases de données
-MongoDB • MySQL
+###  Outils & environnement de développement
+GitHub • GitHub Actions • Git • Docker • VS Code • NPM • Postman
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-### Outils & CI/CD
-GitHub • GitHub Actions • Git
-
-<img src="https://skillicons.dev/icons?i=github,githubactions,git" />
-
-### Conteneurisation
-Docker
-
-<img src="https://skillicons.dev/icons?i=docker" />
-
-### Éditeur & Outils
-VS Code • NPM • Postman
-
-<img src="https://skillicons.dev/icons?i=vscode,npm,postman" />
+<img src="https://skillicons.dev/icons?i=github,githubactions,git,docker,vscode,npm,postman" />
 
 ### Systèmes d’exploitation
 Windows • Linux Mint
