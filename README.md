@@ -1,52 +1,76 @@
-# Hello, moi c'est Maëlle Nioche 👋
+# Bienvenue sur mon GitHub !
 
-<img src="./jedi-maelle.jpg"  width="100%" alt="jedi de l'informatique" />
+Je suis Maëlle Nioche, développeuse web freelance et fondatrice de [**Kōji**](https://koji-dev.fr/).
 
-## Mes technos
 
-- ### Frontend
 
-[<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" height="60">](https://developer.mozilla.org/fr/docs/Learn/Getting_started_with_the_web/HTML_basics)
-[<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" height="60">](https://developer.mozilla.org/fr/docs/Learn/Getting_started_with_the_web/CSS_basics)
-[<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" height="60">](https://developer.mozilla.org/fr/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
-[<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" height="60">](https://fr.legacy.reactjs.org/)
-[<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/sass-original.svg" height="60">](https://sass-lang.com/)
+## Mon activité avec Kōji
 
-- ### Backend
+### Services proposés :
 
-[<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" height="60">](https://nodejs.org/en)
-[<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" height="60">](https://expressjs.com/en/starter/installing.html)
+- **Développement front-end** (HTML, CSS, JavaScript, React)
+- **Intégration de maquettes**
+- **Création de sites vitrines** sur mesure
+- **Responsive design** pour tous les supports
+- **Optimisation de performance et d’accessibilité**
 
-- ### Bases de données
 
-[<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" height="60">](https://www.mongodb.com/)
-[<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/amazonwebservices-original-wordmark.svg" height="60">](https://aws.amazon.com/fr/)
 
-## Mon parcours
+## Ce que vous trouverez sur mon GitHub
 
-Actuellement diplômée d'un **Bac +2 en développement web** et en **recherche d'emploi**, voici mon histoire...
+Mon GitHub rassemble à la fois :
 
-> 🌌 Dans une galaxie lointaine, très lointaine, le destin de Maëlle Nioche était écrit dès le début. 🌌
->
-> Son périple commença sur les terres fertiles de la **licence MIASHS**, où les mystères des **mathématiques**, de **l'informatique** et de la **psychologie** se mêlaient tels les voiles ondulantes de l'hyperespace.
->
-> Mais tandis que les étoiles se déplaçaient dans leur course céleste, elle se sentit appelée par la **Force de l'informatique**.
-> À mi-chemin de son voyage, malgré quelques turbulences cosmiques, une opportunité en or se présenta : une **formation en développement web** avec OpenClassrooms. 🪐
->
-> ✨ Et là, tel un éclair dans la Force, une révélation ! Son amour pour l'informatique fut confirmé, brillant tel un sabre laser dans la nuit étoilée. ✨
->
-> 🚀 Sa formation fut comme une épopée galactique, naviguant du **frontend** au **backend**, traversant les labyrinthes des **bases de données**, combattant les périls du **SEO** et de **l'optimisation**, et triomphant des redoutables **bugs** informatiques.
->
-> Aujourd'hui, diplômée, Maëlle poursuit son périple avec **détermination** et **dynamisme**, continuant à coder avec la même fougue que celle des héros de la Rébellion, tout en **cherchant son prochain défi professionnel** dans cette vaste étendue de bits et d'octets.
+- **Des projets d’apprentissage**, conçus pour expérimenter, tester de nouvelles approches et progresser techniquement.
+- **Des projets plus "matures"**, représentatifs de mon savoir-faire : qualité du code, structure, accessibilité, performance, responsive design…
 
-## Quelques stats
+Ici que vous pouvez suivre l’évolution de mes compétences et de mes idées.
 
-<div>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaelleN95&theme=tokyonight" width="23.5%" height=""/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaelleN95&theme=tokyonight" width="48.5%" />
-</div>
+
 
 ## Me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maelle-nioche)
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge)](https://maelle-nioche.vercel.app/#contact)
+[![Mon linkedin](https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/maelle-nioche)
+[![Email](https://img.shields.io/badge/-contact@koji--dev.fr-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@koji-dev.fr)
+[![Portfolio - koji-dev.fr](https://img.shields.io/badge/-site--web-8ed9cb?style=for-the-badge&logo=web&logoColor=white)](https://koji-dev.fr/#contact)
+
+
+
+## Compétences techniques
+<div align="center">
+
+### Front-end
+React.js • JavaScript • SCSS / Sass • HTML5 • CSS3 • Vite
+
+<img src="https://skillicons.dev/icons?i=react,js,sass,html,css,vite" />
+
+### Back-end
+Node.js • Express • PHP • Symfony
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,symfony" />
+
+### Bases de données
+MongoDB • MySQL
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+### Outils & CI/CD
+GitHub • GitHub Actions • Git
+
+<img src="https://skillicons.dev/icons?i=github,githubactions,git" />
+
+### Conteneurisation
+Docker
+
+<img src="https://skillicons.dev/icons?i=docker" />
+
+### Éditeur & Outils
+VS Code • NPM • Postman
+
+<img src="https://skillicons.dev/icons?i=vscode,npm,postman" />
+
+### Systèmes d’exploitation
+Windows • Linux Mint
+
+<img src="https://skillicons.dev/icons?i=windows,mint" />
+
+</div>
