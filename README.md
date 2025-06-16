@@ -11,6 +11,7 @@ Je suis Maëlle Nioche, développeuse web freelance et fondatrice de [**Kōji**]
 - **Développement front-end** (HTML, CSS, JavaScript, React)
 - **Intégration de maquettes**
 - **Création de sites vitrines** sur mesure
+- Développement de **back-office**
 - **Responsive design** pour tous les supports
 - **Optimisation de performance et d’accessibilité**
 
